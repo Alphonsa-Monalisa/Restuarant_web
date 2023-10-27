@@ -1,5 +1,6 @@
 {
   "name": "food",
+  "homepage": "https://github.com/Alphonsa-Monalisa/Restuarant_web.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
